@@ -208,3 +208,8 @@ img.profile-pic {
     width: 80%;
   }
 }
+
+.black-background {
+	width: 100%;
+	background-color: black;
+}
