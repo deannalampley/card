@@ -42,7 +42,7 @@ img.profile-pic {
 
 
 .company-logo {
-
+        width: auto;
 	height: 85px;
 	object-fit: cover;
 }
@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .primary-info {
-	height: 25%;
+	height: 150px;
 }
 
 .secondary-info {
