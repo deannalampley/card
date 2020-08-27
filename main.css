@@ -34,6 +34,7 @@ img {
 
 img.profile-pic {
 	height: 20%;
+	max-height: 150px;
 	width: 20%;
 	object-fit: cover;
 	border-radius: 50%;
@@ -135,7 +136,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #60b0f4;
 }
 
 .bg-color-white {
