@@ -42,9 +42,8 @@ img.profile-pic {
 
 
 .company-logo {
-	height: 20%;
-	max-height: 85px;
-	width: 20%;
+
+	height: 85px;
 	object-fit: cover;
 }
 
