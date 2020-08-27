@@ -34,7 +34,7 @@ img {
 
 img.profile-pic {
 	height: 20%;
-	max-height: 225px;
+	max-height: 215px;
 	width: 20%;
 	object-fit: cover;
 	border-radius: 50%;
@@ -45,6 +45,10 @@ img.profile-pic {
         width: auto;
 	height: 85px;
 	object-fit: cover;
+}
+
+.impact-logo {
+	max-width: 700px;
 }
 
 .container {
