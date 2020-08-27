@@ -212,4 +212,8 @@ img.profile-pic {
 .black-background {
 	width: 100%;
 	background-color: black;
+	margin: 0px auto;
+	align-content: center;
+		justify-content: center;
+	align-items: center;
 }
