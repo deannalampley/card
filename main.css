@@ -39,7 +39,7 @@ img.profile-pic {
 	width: auto;
 	object-fit: cover;
 	border-radius: 50%;
-	border: 3px ridge silver;
+	border: 3px outset silver;
 }
 
 
@@ -135,7 +135,7 @@ img.profile-pic {
 
 .name-title-company {
 	height: 100%;
-	padding-top: -5px;
+	padding-top: -15px;
 }
 
 .banner {
