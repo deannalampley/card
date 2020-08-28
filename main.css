@@ -227,6 +227,8 @@ img.profile-pic {
 #buttons {
 	margin: 0px auto;
 	align-content: center;
+		justify-content: center;
+	align-items: center;
 	text-align: center;
 	height: 400px;
 	width: 100%;
