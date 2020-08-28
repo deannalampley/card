@@ -51,6 +51,7 @@ img.profile-pic {
 
 .impact-logo {
 	width: 300px;
+	height: auto;
 	background-color: black;
 }
 
@@ -134,7 +135,7 @@ img.profile-pic {
 }
 
 .name-title-company {
-	height: 100%;
+	height: 100px;
 	padding-top: -15px;
 }
 
