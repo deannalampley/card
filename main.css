@@ -134,6 +134,7 @@ img.profile-pic {
 
 .name-title-company {
 	height: 100%;
+	padding-top: -5px;
 }
 
 .banner {
@@ -156,7 +157,7 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-color: silver;
+	background-color: #F5F5F5;
 }
 
 .text-name {
