@@ -228,4 +228,6 @@ img.profile-pic {
 	margin: 0px auto;
 	align-content: center;
 	text-align: center;
+	height: 400px;
+	width: 100%;
 }
