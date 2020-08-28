@@ -242,5 +242,9 @@ img.profile-pic {
 	padding-top: -20px;
 	border: 2px outset gray;
 	background-color: silver;
-	
+	margin: 0px auto;
+	align-content: center;
+		justify-content: center;
+	align-items: center;
+	text-align: center;
 }
