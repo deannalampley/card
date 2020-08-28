@@ -236,7 +236,7 @@ img.profile-pic {
 
 
 .main-buttons {
-        width: 310px;
+        width: 220px;
 	height: 40px;
 	border: 2px outset gray;
 	background-color: silver;
@@ -249,5 +249,5 @@ img.profile-pic {
 }
 
 .main-buttons p {
-	font-size: 23px;
+	font-size: 20px;
 }
