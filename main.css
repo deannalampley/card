@@ -233,3 +233,10 @@ img.profile-pic {
 	height: 200px;
 	width: 100%;
 }
+
+
+.main-buttons {
+        width: 210px;
+	height: 25px;
+	margin-bottom: 5px;
+}
