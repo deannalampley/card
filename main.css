@@ -223,3 +223,9 @@ img.profile-pic {
 		justify-content: center;
 	align-items: center;
 }
+
+#buttons {
+	margin: 0px auto;
+	align-content: center;
+	text-align: center;
+}
