@@ -240,4 +240,7 @@ img.profile-pic {
 	height: 35px;
 	margin-bottom: 5px;
 	padding-top: -20px;
+	border: 2px outset gray;
+	background-color: silver;
+	
 }
