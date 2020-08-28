@@ -227,24 +227,20 @@ img.profile-pic {
 #buttons {
 	margin: 0px auto;
 	align-content: center;
-		justify-content: center;
-	align-items: center;
 	text-align: center;
 	height: 300px;
-	width: 100%;
+	width: auto;
 }
 
 
 .main-buttons {
-        width: 220px;
+        width: 310px;
 	height: 40px;
 	border: 2px outset gray;
 	background-color: silver;
 	margin: 0px auto;
 	margin-bottom: 10px;
 	align-content: center;
-	justify-content: center;
-	align-items: center;
 	text-align: center;
 }
 
