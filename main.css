@@ -38,7 +38,7 @@ img.profile-pic {
 	min-height: 100px;
 	width: auto;
 	object-fit: cover;
-	border-radius: 50%;
+	border-radius: 25%;
 	border: 2px outset gray;
 }
 
