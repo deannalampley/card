@@ -39,7 +39,7 @@ img.profile-pic {
 	width: auto;
 	object-fit: cover;
 	border-radius: 50%;
-	border: 3px outset silver;
+	border: 2px outset gray;
 }
 
 
