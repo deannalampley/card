@@ -37,8 +37,9 @@ img.profile-pic {
 	max-height: 175px;
 	min-height: 100px;
 	width: auto;
-/* 	object-fit: cover; */
+	object-fit: cover;
 	border-radius: 50%;
+	border: 3px ridge silver;
 }
 
 
@@ -169,16 +170,16 @@ img.profile-pic {
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     color: #333333;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #575757;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .bottom {
