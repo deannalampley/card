@@ -260,3 +260,10 @@ img.profile-pic {
 	align-content: center;
 	text-align: center;
 }
+
+#about-text {
+		margin: 0px auto;
+	margin-bottom: 10px;
+	align-content: center;
+	text-align: center;
+}
