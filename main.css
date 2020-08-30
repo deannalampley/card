@@ -248,3 +248,15 @@ img.profile-pic {
 .main-buttons p {
 	font-size: 20px;
 }
+
+.text {
+	display: none;
+	width: 310px;
+	height: auto;
+	border: 2px outset gray;
+	background-color: light-gray;
+	margin: 0px auto;
+	margin-bottom: 10px;
+	align-content: center;
+	text-align: center;
+}
