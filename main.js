@@ -1,7 +1,7 @@
 
 $(function(){
 
-  $('#about-text').hide();
+//   $('#about-text').hide();
   
   $("#about-button").click(function(e){
     e.preventDefault();
