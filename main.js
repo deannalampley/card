@@ -1,6 +1,6 @@
 
 $(function(){
 
-  $('#about').hide()
+  $('#about').hide();
   
 });
