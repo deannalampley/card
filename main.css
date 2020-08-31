@@ -229,7 +229,7 @@ img.profile-pic {
 	margin: 0px auto;
 	align-content: center;
 	text-align: center;
-	height: 300px;
+	height: 100%;
 	width: auto;
 }
 
@@ -272,7 +272,7 @@ img.profile-pic {
 #links-bar {
 	
 	margin: 0px auto;
-	margin-bottom: 10px;
-	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-top: 10px;
 	
 }
