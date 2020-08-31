@@ -8,12 +8,23 @@ $(function(){
       $("#about-text").toggle();
   });
   
+  
+  
   $('#impact-text').hide();
   
   $("#impact-button").click(function(e){
     e.preventDefault();
       $("#impact-text").toggle();
   });  
+  
+  
+  $('#services-text').hide();
+  
+  $("#services-button").click(function(e){
+    e.preventDefault();
+      $("#services-text").toggle();
+  });  
+    
   
   
 });
