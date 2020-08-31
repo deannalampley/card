@@ -18,6 +18,7 @@ $(function(){
   });  
   
   
+  
   $('#services-text').hide();
   
   $("#services-button").click(function(e){
@@ -25,6 +26,15 @@ $(function(){
       $("#services-text").toggle();
   });  
     
+  
+  
+  $('#carriers-text').hide();
+  
+  $("#carriers-button").click(function(e){
+    e.preventDefault();
+      $("#carriers-text").toggle();
+  });  
+      
   
   
 });
