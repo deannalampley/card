@@ -33,12 +33,9 @@ img {
 }
 
 img.profile-pic {
-	height: 15%;
-	max-height: 165px;
+        height: 165px;
 	min-height: 100px;
 	width: auto;
-	object-fit: cover;
-/* 	border-radius: 25%; */
 	border: 2px outset gray;
 }
 
