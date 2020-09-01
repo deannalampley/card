@@ -50,7 +50,7 @@ img.profile-pic {
 }
 
 .impact-logo {
-	width: 300px;
+	width: 350px;
 	height: auto;
 	background-color: black;
 }
@@ -216,7 +216,7 @@ img.profile-pic {
 }
 
 .black-background {
-	height: 100px;
+	height: 100%;
 	width: auto;
 	background-color: black;
 	margin: 0px auto;
