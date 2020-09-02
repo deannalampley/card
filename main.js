@@ -38,7 +38,9 @@ $(function(){
 
 			function myFunction() {
 	          		let copytext = $("#copytext")
-				Copied = copytext.createTextRange();
+				let holdtext = $("#holdtext")
+				holdtext.innerText = hold.innerText;
+				Copied = holdtext.createTextRange();
 				Copied.execCommand("Copy");
 			}
   
