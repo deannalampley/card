@@ -55,10 +55,12 @@
 		</div>
 		
 		<p id="copytext" value="https://deannalampley.github.io/card">https://deannalampley.github.io/card</p>
-		<TEXTAREA ID="holdtext" STYLE="display:none;"></TEXTAREA>
+		<textarea id="holdtext" style="display:none;"></textarea>
 		<button class="copy_btn" onclick="myFunction()">Copy</button>	
         
       <script>
+	                let holdtext = $("#holdtext")
+	                let copytext = $("#copytext")
 			function myFunction() {
 				 holdtext.innerText = copytext.innerText;
 				Copied = holdtext.createTextRange();
