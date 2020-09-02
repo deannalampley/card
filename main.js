@@ -45,7 +45,7 @@ $(function(){
 // 			}
 
 					const span = $("#copytext");
-
+					const copy_btn = $(".copy_btn")
 					span.onclick = function() {
 					  document.execCommand("copy");
 					}
@@ -53,7 +53,7 @@ $(function(){
 					span.addEventListener("copy", function(event) {
 					  event.preventDefault();
 					  if (event.clipboardData) {
-					    event.clipboardData.setData("text/plain", span.textContent);
+					    event.clipboardData.setData("text/plain", copy_btn.textContent);
 					    console.log(event.clipboardData.getData("text"))
 					  }
 					});
