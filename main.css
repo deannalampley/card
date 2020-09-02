@@ -224,6 +224,7 @@ img.profile-pic {
 
 #buttons {
 	margin: 0px auto;
+	margin-top: -5px;
 	align-content: center;
 	text-align: center;
 	height: 100%;
