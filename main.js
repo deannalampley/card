@@ -44,7 +44,7 @@ $(function(){
 // 				Copied.execCommand("Copy");
 // 			}
 
-					const span = document.querySelector("#copytext");
+					const span = $("#copytext");
 
 					span.onclick = function() {
 					  document.execCommand("copy");
