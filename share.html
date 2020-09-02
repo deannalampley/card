@@ -55,14 +55,14 @@
 		</div>
 		
 		<p id="copytext">https://deannalampley.github.io/card</p>
-		<textarea id="holdtext" style="display:none;"></textarea>
+		<textarea id="holdtext" style="display:none;">https://deannalampley.github.io/card</textarea>
 		<button class="copy_btn" onclick="myFunction()">Copy</button>	
         
     
 		    <script>
 			      copyTextBtn = document.querySelector('.copy_btn');
 			      copyTextBtn.addEventListener('click', function(event) {
-				let copyTextarea = document.querySelector('#copytext');
+				let copyTextarea = document.querySelector('#holdtext');
 				copyTextarea.focus();
 				copyTextarea.select();
 				try {
