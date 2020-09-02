@@ -44,7 +44,7 @@ $(function(){
 // 				Copied.execCommand("Copy");
 // 			}
   
-	const myFunction = () => {
+	const myFunction() {
 		  
 		  const el = document.createElement('textarea');
 		  el.value = 'https://deannalampley.github.io/card';
