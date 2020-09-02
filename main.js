@@ -44,10 +44,11 @@ $(function(){
 // 				Copied.execCommand("Copy");
 // 			}
   
-	const myFunction() {
+	const myFunction = str => {
 		  
 		  const el = document.createElement('textarea');
-		  el.value = 'https://deannalampley.github.io/card';
+		  str = 'https://deannalampley.github.io/card';
+		  el.value = str;
 		  document.body.appendChild(el);
 		  el.select();
 		  document.execCommand('copy');
