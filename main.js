@@ -36,12 +36,23 @@ $(function(){
   });  
       
 
-			function myFunction() {
-	          		let copytext = $("#copytext")
-				let holdtext = $("#holdtext")
-				holdtext.innerText = hold.innerText;
-				Copied = holdtext.createTextRange();
-				Copied.execCommand("Copy");
-			}
+// 			function myFunction() {
+// 	          		let copytext = $("#copytext")
+// 				let holdtext = $("#holdtext")
+// 				holdtext.innerText = hold.innerText;
+// 				Copied = holdtext.createTextRange();
+// 				Copied.execCommand("Copy");
+// 			}
   
+	const myFunction = () => {
+		  
+		  const el = document.createElement('textarea');
+		  el.value = 'https://deannalampley.github.io/card';
+		  document.body.appendChild(el);
+		  el.select();
+		  document.execCommand('copy');
+		  document.body.removeChild(el);
+	};
+	
+	
 });
