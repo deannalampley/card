@@ -36,6 +36,12 @@ $(function(){
   });  
       
 
-  
+			function myFunction() {
+        	  let holdtext = $("#holdtext")
+	          let copytext = $("#copytext")
+				 holdtext.innerText = copytext.innerText;
+				Copied = holdtext.createTextRange();
+				Copied.execCommand("Copy");
+			}
   
 });
