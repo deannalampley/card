@@ -165,7 +165,6 @@ img.profile-pic {
     font-weight: bold;
     color: #333333;
     font-size: 32px;
-    border: 2px ridge gold;
 }
 
 .text-title-company {
@@ -173,6 +172,11 @@ img.profile-pic {
     font-weight: bold;
     color: #333333;
     font-size: 24px;
+}
+
+#plaque {
+	width: 350px;
+	border: 2px ridge gray;
 }
 
 .text-detail {
