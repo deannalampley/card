@@ -291,8 +291,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 #links-bar {
 	
 	margin: 0px auto;
-	margin-bottom: 10px;
-	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
 	
 }
 
