@@ -173,6 +173,7 @@ img.profile-pic {
     font-weight: bold;
     color: #333333;
     font-size: 24px;
+	text-shadow: 1px 1px 1px silver;
 }
 
 #plaque {
@@ -259,6 +260,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 	margin-bottom: 10px;
 	align-content: center;
 	text-align: center;
+	box-shadow: 2px 2px 2px silver;
 }
 
 .main-buttons p {
@@ -292,6 +294,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 	margin-bottom: 20px;
 	margin-top: 10px;
 	
+}
+
+
+#links-bar button {
+	
+	margin: 0px auto;
+	margin-bottom: 20px;
+	margin-top: 10px;
+		box-shadow: 2px 2px 2px silver;
 }
 
 #holdtext {
