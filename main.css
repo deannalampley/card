@@ -260,7 +260,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ebf9', end
 	margin-bottom: 10px;
 	align-content: center;
 	text-align: center;
-	box-shadow: 2px 2px 2px silver;
+	box-shadow: 2px 2px 2px gray;
 }
 
 .main-buttons p {
